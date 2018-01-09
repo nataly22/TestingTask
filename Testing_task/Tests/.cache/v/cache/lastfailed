@@ -1,0 +1,6 @@
+{
+  "test_registration_with_confirm_email.py::RegistrationTests::test_registration_with_tmp_email": true, 
+  "test_validation_email.py::ValidationEmailRegistrationTests::test_validation_email_with_point_befor_dog": true, 
+  "test_validation_email.py::ValidationEmailRegistrationTests::test_validation_email_without_point_after_dog": true, 
+  "test_validation_password.py::ValidationEmailRegistrationTests::test_validation_not_match_passwrd_to_confirm_passwrd": true
+}
